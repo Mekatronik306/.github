@@ -1,2 +1,1 @@
-# .github
-ELA306 - Mekatronik
+## ELA306
